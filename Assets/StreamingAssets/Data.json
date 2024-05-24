@@ -1,0 +1,621 @@
+{
+    "Entries": [
+        {
+            "SpinCount": 1,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+                "4 6 8 5 5 2",
+                "5 2 1 7 1 1",
+                "3 7 4 8 7 7",
+                "7 1 6 4 8 8",
+                "5 8 1 7 4 1",
+                "3 2 2 4 8 6"
+            ],
+            "MultiplierRows": [
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+        },
+        {
+            "SpinCount": 2,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 6,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+                "4 3 5 5 8 6",
+                "5 6 0 2 7 4",
+                "8 3 3 8 6 7",
+                "3 4 5 5 5 5",
+                "6 7 5 7 6 8",
+                "4 6 7 4 3 6"
+            ],
+            "MultiplierRows": [
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0"
+            ],
+            "Coordinates": [
+                "(2, 3)",
+                "(3, 3)",
+                "(4, 3)",
+                "(5, 3)",
+                "(2, 4)"
+            ],
+            "SymbolWinningCombinations": [
+                "(5, 5)"
+            ]
+        },
+        {
+            "SpinCount": 3,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 3,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+                "3 7 3 3 7 5",
+                "5 6 8 1 8 2",
+                "8 7 5 3 1 7",
+                "7 7 6 6 2 8",
+                "7 5 8 7 8 4",
+                "7 2 2 2 6 5"
+            ],
+            "MultiplierRows": [
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0",
+                "0 0 0 0 0 0"
+            ],
+            "Coordinates": [
+                "(0, 3)",
+                "(1, 3)",
+                "(1, 2)",
+                "(0, 4)",
+                "(0, 5)"
+            ],
+            "SymbolWinningCombinations": [
+                "(7, 5)"
+            ]
+        },
+        {
+          "SpinCount": 4,
+          "FreeSpinCount": 0,
+          "Type": "BG",
+          "FG_Triggred": false,
+          "Win": 2,
+          "NudgeCount": null,
+          "ReelWindowRows": [
+            "4 2 6 6 4 6",
+            "8 3 4 3 3 2",
+            "8 8 8 8 5 5",
+            "6 7 7 7 3 6",
+            "3 5 0 1 8 8",
+            "1 8 7 5 2 4"
+          ],
+          "MultiplierRows": [
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0"
+          ],
+          "Coordinates": [
+            "(0, 1)",
+            "(0, 2)",
+            "(1, 2)",
+            "(2, 2)",
+            "(3, 2)"
+          ],
+          "SymbolWinningCombinations": [
+            "(8, 5)"
+          ]
+        },
+        {
+          "SpinCount": 5,
+          "FreeSpinCount": 0,
+          "Type": "BG",
+          "FG_Triggred": false,
+          "Win": 0,
+          "NudgeCount": null,
+          "ReelWindowRows": [
+            "3 3 1 8 5 2",
+            "8 5 7 1 4 3",
+            "5 3 3 3 1 2",
+            "7 2 2 4 5 7",
+            "2 7 5 8 7 5",
+            "1 1 4 6 2 4"
+          ],
+          "MultiplierRows": [
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0"
+          ],
+          "Coordinates": [],
+          "SymbolWinningCombinations": []
+        },
+        {
+          "SpinCount": 5,
+          "FreeSpinCount": 0,
+          "Type": "BG",
+          "FG_Triggred": false,
+          "Win": 0,
+          "NudgeCount": 0,
+          "ReelWindowRows": [
+            "1 3 8 8 5 2",
+            "7 4 5 2 3 1",
+            "5 1 6 6 8 4",
+            "4 5 4 4 2 7",
+            "6 7 3 5 7 8",
+            "5 6 2 6 5 2"
+          ],
+          "MultiplierRows": [
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0"
+          ],
+          "Coordinates": [],
+          "SymbolWinningCombinations": []
+        },
+        {
+          "SpinCount": 6,
+          "FreeSpinCount": 0,
+          "Type": "BG",
+          "FG_Triggred": false,
+          "Win": 0,
+          "NudgeCount": null,
+          "ReelWindowRows": [
+            "1 2 7 6 4 1",
+            "4 8 8 4 8 8",
+            "2 3 4 7 5 5",
+            "4 7 6 1 6 2",
+            "6 8 7 6 3 1",
+            "3 7 1 3 2 4"
+          ],
+          "MultiplierRows": [
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0"
+          ],
+          "Coordinates": [],
+          "SymbolWinningCombinations": []
+        },
+        {
+          "SpinCount": 7,
+          "FreeSpinCount": 0,
+          "Type": "BG",
+          "FG_Triggred": false,
+          "Win": 4,
+          "NudgeCount": null,
+          "ReelWindowRows": [
+            "4 3 5 8 8 5",
+            "6 7 4 4 4 2",
+            "5 2 8 3 2 1",
+            "1 4 5 2 6 4",
+            "8 1 2 6 6 6",
+            "6 8 5 6 1 8"
+          ],
+          "MultiplierRows": [
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0"
+          ],
+          "Coordinates": [
+            "(3, 4)",
+            "(4, 4)",
+            "(5, 4)",
+            "(4, 3)",
+            "(3, 5)"
+          ],
+          "SymbolWinningCombinations": [
+            "(6, 5)"
+          ]
+        },
+        {
+          "SpinCount": 8,
+          "FreeSpinCount": 0,
+          "Type": "BG",
+          "FG_Triggred": false,
+          "Win": 0,
+          "NudgeCount": null,
+          "ReelWindowRows": [
+            "4 7 1 5 4 1",
+            "7 8 5 4 3 4",
+            "4 7 4 3 5 8",
+            "7 1 6 7 3 5",
+            "5 2 4 2 8 2",
+            "1 5 6 3 2 8"
+          ],
+          "MultiplierRows": [
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0"
+          ],
+          "Coordinates": [],
+          "SymbolWinningCombinations": []
+        },
+        {
+          "SpinCount": 9,
+          "FreeSpinCount": 0,
+          "Type": "BG",
+          "FG_Triggred": false,
+          "Win": 0,
+          "NudgeCount": 0,
+          "ReelWindowRows": [
+            "2 8 6 7 4 7",
+            "1 5 2 4 7 5",
+            "4 7 5 7 2 6",
+            "8 6 7 5 8 2",
+            "2 1 1 8 6 5",
+            "3 0 5 7 1 8"
+          ],
+          "MultiplierRows": [
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0",
+            "0 0 0 0 0 0"
+          ],
+          "Coordinates": [],
+          "SymbolWinningCombinations": []
+        },
+          {
+            "SpinCount": 10,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 5,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "5 1 7 5 6 0",
+              "7 7 6 1 5 4",
+              "5 7 7 2 6 7",
+              "3 5 7 1 0 3",
+              "8 7 7 8 8 2",
+              "6 2 8 5 2 5"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [
+              "(0, 1)",
+              "(1, 1)",
+              "(1, 2)",
+              "(2, 2)",
+              "(2, 3)",
+              "(2, 4)",
+              "(1, 4)"
+            ],
+            "SymbolWinningCombinations": [
+              "(7, 7)"
+            ]
+          },
+          {
+            "SpinCount": 11,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "6 3 6 3 6 8",
+              "1 6 2 1 7 2",
+              "8 3 4 2 8 5",
+              "7 6 7 5 1 8",
+              "4 8 3 4 5 7",
+              "3 5 2 3 2 1"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          },
+          {
+            "SpinCount": 12,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "2 7 8 4 5 3",
+              "5 6 6 3 4 4",
+              "6 1 4 2 1 2",
+              "7 2 6 7 5 4",
+              "8 8 1 4 7 1",
+              "1 6 5 8 2 8"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          },
+          {
+            "SpinCount": 13,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "8 3 2 3 2 7",
+              "6 6 7 4 7 3",
+              "5 3 8 8 1 6",
+              "8 6 4 6 4 2",
+              "4 8 7 3 5 6",
+              "8 5 1 4 6 1"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          },
+          {
+            "SpinCount": 14,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 1500,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "2 3 6 7 2 1",
+              "2 8 2 6 2 4",
+              "2 2 2 3 2 6",
+              "2 2 2 2 2 6",
+              "1 2 3 7 2 6",
+              "3 8 2 1 2 6"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [
+              "(0, 0)",
+              "(0, 1)",
+              "(0, 2)",
+              "(1, 2)",
+              "(2, 2)",
+              "(2, 1)",
+              "(2, 3)",
+              "(1, 3)",
+              "(0, 3)",
+              "(1, 4)",
+              "(3, 3)",
+              "(4, 3)",
+              "(4, 2)",
+              "(4, 1)",
+              "(4, 0)",
+              "(4, 4)",
+              "(4, 5)"
+            ],
+            "SymbolWinningCombinations": [
+              "(2, 17)"
+            ]
+          },
+          {
+            "SpinCount": 15,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "5 7 6 2 6 7",
+              "6 6 2 1 8 1",
+              "3 1 1 5 2 3",
+              "5 2 8 1 3 7",
+              "7 8 7 2 1 3",
+              "6 6 3 4 5 0"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          },
+          {
+            "SpinCount": 16,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "1 7 2 6 6 8",
+              "7 2 5 1 4 1",
+              "4 3 4 4 8 7",
+              "8 6 8 1 5 8",
+              "3 5 5 7 6 5",
+              "7 4 2 3 3 7"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          },
+          {
+            "SpinCount": 17,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "3 6 3 7 7 6",
+              "2 1 8 1 2 7",
+              "1 6 1 8 7 3",
+              "2 3 4 4 5 8",
+              "5 2 7 7 3 6",
+              "6 4 5 2 8 2"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          },
+          {
+            "SpinCount": 18,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 9,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "5 5 2 3 6 1",
+              "8 3 8 4 1 6",
+              "6 1 6 4 5 3",
+              "5 7 4 4 4 5",
+              "8 5 6 4 3 4",
+              "4 3 1 7 2 5"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [
+              "(2, 3)",
+              "(3, 3)",
+              "(4, 3)",
+              "(3, 2)",
+              "(3, 1)",
+              "(3, 4)"
+            ],
+            "SymbolWinningCombinations": [
+              "(4, 6)"
+            ]
+          },
+          {
+            "SpinCount": 19,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "8 3 1 8 7 3",
+              "7 2 8 4 8 2",
+              "8 4 6 7 4 6",
+              "4 7 5 2 6 5",
+              "3 8 8 1 5 7",
+              "2 5 2 3 6 1"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          },
+          {
+            "SpinCount": 20,
+            "FreeSpinCount": 0,
+            "Type": "BG",
+            "FG_Triggred": false,
+            "Win": 0,
+            "NudgeCount": null,
+            "ReelWindowRows": [
+              "7 7 5 3 3 4",
+              "2 8 4 1 5 7",
+              "1 7 1 6 3 8",
+              "4 1 6 8 8 2",
+              "8 2 1 2 2 5",
+              "2 5 8 3 7 4"
+            ],
+            "MultiplierRows": [
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0",
+              "0 0 0 0 0 0"
+            ],
+            "Coordinates": [],
+            "SymbolWinningCombinations": []
+          }
+    ]
+}
